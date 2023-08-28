@@ -20,3 +20,9 @@ This is the place where I opensource stuff and break things :rofl:
 - [Thesis:AN INDOOR NAVIGATION SYSTEM FOR AUTONOMOUS MOBILE ROBOT](https://www.canva.com/design/DAEFoOApNUA/lb9KYQuHJlM42kQpQl0h9w/view?utm_content=DAEFoOApNUA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <!-- BLOG-POST-LIST:END -->
 
+🍕  &nbsp;**AIT students discover China, meet America and glimpse the future in Global Hi-Tech Hub Shenzhen**
+
+AIT- Georgia Tech Shenzhen Institute, China, Summer Program 2023
+<!-- BLOG-POST-LIST:START -->
+- Experience articles: [https://www.Pattranit_goto_china.com/](https://ait.ac.th/2023/07/ait-students-discover-china-meet-america-and-glimpse-the-future-in-global-hi-tech-hub-shenzhen/?fbclid=IwAR3ozdqnd34bBHxO9y6ntgqpfFV-awkB3FJEndjLrRQJRUumRToY99NHP6c)
+<!-- BLOG-POST-LIST:END -->
