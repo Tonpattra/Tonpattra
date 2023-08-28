@@ -1,4 +1,7 @@
 ### Hi I'm Tonleaw<a href="https://www.Tonpattra.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### How to learn like cat
+"learn everything but I don't know anything."
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;Bachelor's Mechatronics Engineering (KMUTNB), Master's Mechatronics and Machine Intelligence (AIT)
