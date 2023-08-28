@@ -15,7 +15,7 @@ This is the place where I opensource stuff and break things :rofl:
 - [Simulate an Unmanned Vehicle System Using Deep Reinforcement Learning](https://www.canva.com/design/DAFghwoLMbM/huPNz6PF9pDQorsPR-V3yA/view?utm_content=DAFghwoLMbM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - [Modeling Strong and Human-Like Gameplay with KL-Regularized Search](https://www.canva.com/design/DAFZ1amPNGQ/wkN0wk0CbDPLbH7f-J7mpw/view?utm_content=DAFZ1amPNGQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - [automatic control industry](https://www.canva.com/design/DAEFoOApNUA/lb9KYQuHJlM42kQpQl0h9w/view?utm_content=DAEFoOApNUA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-- [Thesis:AN INDOOR NAVIGATION SYSTEM FOR AUTONOMOUS MOBILE ROBOT](hhttps://www.canva.com/design/DAEFoOApNUA/lb9KYQuHJlM42kQpQl0h9w/view?utm_content=DAEFoOApNUA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- [Thesis:AN INDOOR NAVIGATION SYSTEM FOR AUTONOMOUS MOBILE ROBOT](https://www.canva.com/design/DAEFoOApNUA/lb9KYQuHJlM42kQpQl0h9w/view?utm_content=DAEFoOApNUA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
