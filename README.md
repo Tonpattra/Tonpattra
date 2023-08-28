@@ -1,17 +1,19 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi I'm Tonleaw<a href="https://www.Tonpattra.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 🔭 &nbsp;I’m 
+- 🌱 &nbsp;
+- ⚡ &nbsp;
+- 💬 &nbsp;
+- 👨‍💻 &nbsp;
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
+- [LICENSE PLATE IMAGE GENERATION USING VARIATIONAL AUTOENCODER (VAEs) for license plate character recognition.]([https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo](https://www.canva.com/design/DAFekqluqVY/u8TPaK5FZhz34peLOb_SNA/edit?utm_content=DAFekqluqVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Vibration supporting percussive rhythm game for deaf and hard of hearing](https://www.canva.com/design/DAFfURGVFwY/bnbaXk9LCYl8MfX1jse2nw/edit?utm_content=DAFfURGVFwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Simulate an Unmanned Vehicle System Using Deep Reinforcement Learning](https://www.canva.com/design/DAFghwoLMbM/cjPYT4oKE6EqxtLJNKnG-Q/edit?utm_content=DAFghwoLMbM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Modeling Strong and Human-Like Gameplay with KL-Regularized Search](https://www.canva.com/design/DAFZ1amPNGQ/Cv6Pep04UwQpUqyxUXl4tA/edit?utm_content=DAFZ1amPNGQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
